@@ -1,0 +1,28 @@
+1. Learnings
+
+(i) Enabled Comprehensive Tracking and Analysis: Facilitated a thorough and insightful monitoring of patient data.
+(ii) Highlighted Key Indicators: Leveraged the card functionality to emphasize crucial metrics.
+(iii) Diverse Data Visualization: Employed a variety of chart types—including stacked column, donut, funnel, and pie charts—to ensure clear and effective data presentation.
+(iv) Customized Data Interaction: Incorporated slicers to enable tailored data exploration and adjusted their interactions with other charts for enhanced analytical flexibility.
+(v) Performed Time-Series Analysis: Utilized an area chart to track and analyze the hospital's monthly patient admission trends effectively.
+
+
+2. Insights
+
+(i) First Admission Date: The hospital marked its first patient admission on December 5th, 2022.
+(ii) Impressive Revenue: The hospital has generated a total billing amount of 190.43 million rupees.
+(iii) Bed Utilization: Private and general beds consistently show higher occupancy rates compared to ICU beds.
+(iv) Doctor Engagement: All seven doctors have attended to nearly the same number of patients, ensuring balanced care.
+(v) Prevalent Health Issue: The majority of admitted patients are battling viral infections, with a total of 2004 cases reported.
+(vi) Common Diagnostic Test: Blood tests are the most frequently conducted procedure, performed on 2236 patients, accounting for 31.24% of the total patient count.
+(vii) Admission Trends: Patient admissions peak at the beginning and end of the year, highlighting seasonal influxes.
+
+
+3. Strategies
+
+Strategies for Phoenix General Hospital:
+(i) Revenue Optimization: Analyze and promote high-revenue services based on billing data.
+(ii) Balanced Doctor Workloads: Continuously monitor and adjust patient distribution among doctors.
+(iii) Viral Infection Management: Develop targeted programs for prevention, early detection, and treatment of viral infections.
+(iv) Efficient Blood Testing: Streamline blood testing processes to handle high volumes and reduce patient wait times.
+(v) Seasonal Admission Preparation: Increase staffing and resources during peak admission periods at the start and end of the year.
